@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋, I´m Zoe and I'm learning web development and English. Welcome to my little space.
+### Hey 👋 te doy la bienvenida a mi pequeño rincón. Estoy aprendiendo inglés y diseño web. 
 <!--
 **zoegongar/zoegongar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
